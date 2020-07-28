@@ -1,2 +1,2 @@
-# Coursera-py-UOM
-All the assignments of the first course in python for everybody specialization by University Of Michigan
+# Coursera-py-University-Of-Michigan
+All the assignments of the "python for everybody" specialization by University Of Michigan
